@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\CDAC\\MS-.NET-Assignments\\Q4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B292482-31B8-40DD-B5FE-D3E8EF693CDE}|Q4\\Q4.csproj|c:\\users\\dell\\desktop\\cdac\\ms-.net-assignments\\q4\\q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B292482-31B8-40DD-B5FE-D3E8EF693CDE}|Q4\\Q4.csproj|solutionrelative:q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\CDAC\\MS-.NET-Assignments\\Q4\\Q4\\Program.cs",
+              "RelativeDocumentMoniker": "Q4\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\CDAC\\MS-.NET-Assignments\\Q4\\Q4\\Program.cs",
+              "RelativeToolTip": "Q4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:54:05.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
